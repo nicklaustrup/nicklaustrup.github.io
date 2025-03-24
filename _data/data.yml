@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
+  position: left # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
@@ -58,31 +58,31 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here
+    I am a Software Engineer with a passion for backend development and cloud computing. I have experience working with Java, Python, and JavaScript, and I am currently learning AWS and Google Cloud. I am looking for a full time position where I can continue to grow my skills and contribute to a team.
 education:
   title: Education
   info:
   - degree: BS in Computer Science
     university: Oregon State University
     time: 2023 - 2025
-    details: |
-      Describe your study here
-        - Bullet point
-        - Bullet point
+    # details: |
+    #   Describe your study here
+    #     - Bullet point
+    #     - Bullet point
   - degree: Certificate in Software Engineering Backend Development
     university: Southern New Hampshire University
     time: 2022 - 2023
     details: |
-      Describe your study here
-        - Bullet point
-        - Bullet point
+      Year long intensive project-based program focusing on Java, Spring Boot, AWS, and CI/CD pipelines oriented towards landing a Full Time position at Amazon as a Software Engineer.
+  #      - Bullet point
+   #     - Bullet point
   - degree: BS in Business Administration
     university: San Francisco State University
     time: 2017 - 2020
-    details: |
-      Describe your study here
-        - Bullet point
-        - Bullet point
+    # details: |
+      # Describe your study here
+       # - Bullet point
+        #- Bullet point
 
 experiences:
   title: Experiences
@@ -91,23 +91,24 @@ experiences:
     time: 2025 - Present
     company: All Classical Radio, Portland, OR
     details: |
-      Describe your role here 
-        - Bullet point
-        - Bullet point
+      Part time internship working on the website and backend systems for a non-profit classical music radio station.
+        - Developed a Python script to automate the process of updating the website's playlist feeds, reducing manual data entry time by approximately 65 hours annually
+        - Implemented a web scraper to find broken links on an internal research website, reducing the number of intern clicks by 95%
   - role: Computer Science Teaching Assistant
     time: 2024 - Present
     company: Oregon State University, Remote
     details: |
-      Describe your role here
-        - Bullet point
-        - Bullet point
+      Part time position assisting students in the Web Development course at Oregon State University. 
+      - Supported over 800 students in Web Development by providing structured guidance resulting in 15% increased grades
+      - Led weekly lab sessions and facilitated learning through code reviews and constructive feedback on JavaScript, React, and Assembly assignments, helping students meet key project deadlines and goals
   - role: Coding Instructor
     time: 2023 - 2024
     company: Coding with Kids, Portland, OR
     details: |
-      Describe your role here
-        - Bullet point
-        - Bullet point
+      In person instructor for a coding course for kids aged 8-12.
+        - Taught foundational computer science concepts to students, achieving a 100% course completion rate by setting defined projecmilestones and regularly assessing progress
+        - Established a collaborative learning environment, clearly communicating course goals and tracking each student’s advancemenensuring that all participants met project commitments and successfully graduated from the program
+
 
 # certifications:
 #   title:
@@ -125,24 +126,28 @@ experiences:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Here are some of the projects I have worked on. Click on the link to view the projects on GitHub.
   assignments:
   - title: kenziegains
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    link: "https://github.com/nicklaustrup/kenziegains"
+    tagline: "Java Spring Boot application with AWS CI/CD Pipeline that allows users to create and sign up for fitness courses. AWS Elastic Beanstalk, DynamoDB, Lambda, API Gateway, S3. Final project for Southern New Hampshire University's SWE Backend Development Certificate."
 
   - title: Portfolio Website
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    link: "https://github.com/nicklaustrup/cs290-portfolio"
+    tagline: "A  full stack MERN application built as a final project for CS 290 Web Development."
+
+  - title: Card Shop Manager
+    link: "https://github.com/nicklaustrup/card-shop-dba"
+    tagline: "A  full stack MERN application built as a final project for CS 340 Intr to Databases"
 
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this section
+    Open Source projects that I have contributed to. I would love to contribute to more projects in the future.
   contributions:
   - title: Scrapy
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    link: "https://github.com/scrapy/scrapy"
+    tagline: "Fixed an issue where inflight exceptions were being swallowed by a finally block."
 
 # publications:
 #   title: 
@@ -173,11 +178,20 @@ skills:
   - name: Javascript
     level: 60%
 
+  - name: SQL
+    level: 50%
+
   - name: Java
     level: 45%
 
-  - name: C
+  - name: Google Cloud
     level: 35%
+
+  - name: Amazon Web Services
+    level: 35%
+
+  - name: C
+    level: 25%
 
 
 

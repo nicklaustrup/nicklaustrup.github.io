@@ -138,7 +138,7 @@ projects:
 
   - title: Card Shop Manager
     link: "https://github.com/nicklaustrup/card-shop-dba"
-    tagline: "A  full stack MERN application built as a final project for CS 340 Intr to Databases"
+    tagline: "Python, Flask, Jinja2, and SQL application built as a final project for CS 340 Intr to Databases"
 
 oss:
   title: OSS Contributions
@@ -147,7 +147,7 @@ oss:
   contributions:
   - title: Scrapy
     link: "https://github.com/scrapy/scrapy"
-    tagline: "Fixed an issue where inflight exceptions were being swallowed by a finally block."
+    tagline: "A fast high-level web crawling & scraping framework for Python."
 
 # publications:
 #   title: 

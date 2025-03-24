@@ -19,7 +19,7 @@ sidebar:
   citizenship:
   website: # Include the full website URL, including "http://" or "https://".
   linkedin: nicklaustrup
-  xing: alandoe
+  xing:
   github: nicklaustrup
   telegram: # add your nickname without '@' sign
   gitlab:
@@ -58,12 +58,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Summarise your career here
 education:
   title: Education
   info:
@@ -71,33 +66,21 @@ education:
     university: Oregon State University
     time: 2023 - 2025
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      Describe your study here
         - Bullet point
         - Bullet point
   - degree: Certificate in Software Engineering Backend Development
     university: Southern New Hampshire University
     time: 2022 - 2023
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      Describe your study here
         - Bullet point
         - Bullet point
   - degree: BS in Business Administration
     university: San Francisco State University
     time: 2017 - 2020
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      Describe your study here
         - Bullet point
         - Bullet point
 
@@ -108,51 +91,35 @@ experiences:
     time: 2025 - Present
     company: All Classical Radio, Portland, OR
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      Describe your role here 
         - Bullet point
         - Bullet point
   - role: Computer Science Teaching Assistant
     time: 2024 - Present
     company: Oregon State University, Remote
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Describe your role here
         - Bullet point
         - Bullet point
   - role: Coding Instructor
     time: 2023 - 2024
     company: Coding with Kids, Portland, OR
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Describe your role here
         - Bullet point
         - Bullet point
 
-certifications:
-  title:
-  list:
-  - name: 
-    start: 
-    end:
-    organization: 
-    credentialid:
-    credentialurl: 
-    credentialname: 
-    details: 
+# certifications:
+#   title:
+#   list:
+#   - name: 
+#     start: 
+#     end:
+#     organization: 
+#     credentialid:
+#     credentialurl: 
+#     credentialname: 
+#     details: 
       # Older certification
 
 projects:
@@ -160,11 +127,11 @@ projects:
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
+  - title: kenziegains
     link: "#hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
+  - title: Portfolio Website
     link: "#"
     tagline: "A responsive website template designed to help web developers/designers market their services."
 
@@ -177,26 +144,24 @@ oss:
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-publications:
-  title: 
-  intro: 
-  papers:
-  - title:
-    link: 
-    authors: 
-    conference: 
+# publications:
+#   title: 
+#   intro: 
+#   papers:
+#   - title:
+#     link: 
+#     authors: 
+#     conference: 
 
-recommendations:
-  title:  # Recommendations
-  list:
-  - person: 
-    email: 
-    phone: 
-    role: 
-    recommendation: 
-      # I would like to work with Alan Doe again!
+# recommendations:
+#   title: 
+#   list:
+#   - person: 
+#     email: 
+#     phone: 
+#     role: 
+#     recommendation: 
 
-      # He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
@@ -217,4 +182,4 @@ skills:
 
 
 footer: >
-  Hello, World!
+  © 2025 Nick Laustrup.

@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Nick Laustrup
+  tagline: Software Engineer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: 
+  phone: 
+  timezone: PST # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
+  website: # Include the full website URL, including "http://" or "https://".
+  linkedin: nicklaustrup
   xing: alandoe
-  github: jekyll
+  github: nicklaustrup
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -40,24 +40,18 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Gym
       link:
 
 
-    - item: Snowboarding
+    - item: Gaming
       link:
 
 
-    - item: Cooking
+    - item: Food
       link:
 
 
@@ -73,9 +67,9 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BS in Computer Science
+    university: Oregon State University
+    time: 2023 - 2025
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,9 +78,20 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Certificate in Software Engineering Backend Development
+    university: Southern New Hampshire University
+    time: 2022 - 2023
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: BS in Business Administration
+    university: San Francisco State University
+    time: 2017 - 2020
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -99,9 +104,9 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Full Stack Developer Intern
+    time: 2025 - Present
+    company: All Classical Radio, Portland, OR
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -114,9 +119,9 @@ experiences:
       architecto beatae vitae dicta sunt explicabo.
         - Bullet point
         - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Computer Science Teaching Assistant
+    time: 2024 - Present
+    company: Oregon State University, Remote
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -125,9 +130,9 @@ experiences:
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+  - role: Coding Instructor
+    time: 2023 - 2024
+    company: Coding with Kids, Portland, OR
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -138,45 +143,24 @@ experiences:
         - Bullet point
 
 certifications:
-  title: Certifications
+  title:
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name: 
+    start: 
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    organization: 
+    credentialid:
+    credentialurl: 
+    credentialname: 
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      # Older certification. Lorem ipsum dolor sit amet, consectetur
+      # adipiscing elit.
+      # Nullam eget orci purus. Nullam ultrices neque nibh.
+      # Aenean fermentum, felis vulputate suscipit accumsan,
+      # sem enim bibendum augue, sed convallis arcu lacus at dui.
+      # Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      # Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      # Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
@@ -191,96 +175,56 @@ projects:
     link: "#"
     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    You can list your open source software contributions in this section
   contributions:
-  - title: Tempo
+  - title: Scrapy
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
-  title: Publications
+  title: 
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title:
+    link: 
+    authors: 
+    conference: 
 
 recommendations:
-  title: Recommendations
+  title:  # Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+  - person: 
+    email: 
+    phone: 
+    role: 
+    recommendation: 
+      # I would like to work with Alan Doe again!
 
-      He is a great employee!
+      # He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Python
+    level: 75%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
+  - name: Javascript
     level: 60%
 
+  - name: Java
+    level: 45%
+
+  - name: C
+    level: 35%
+
+
+
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Hello, World!
